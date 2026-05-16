@@ -18,7 +18,7 @@ app.use(
     origin: [
       "http://localhost:5174",
 
-      "https://event-booking-backend-kw0i.onrender.com",
+      "https://event-booking-frontend-flax.vercel.app",
     ],
 
     credentials: true,
